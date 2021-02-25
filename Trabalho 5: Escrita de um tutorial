@@ -13,7 +13,7 @@ Há uma coleção de listas de palavras para usar com John the Ripper. Incluindo
 Após efetuar o Download basta extrair os arquivos do John no diretório C: do Windows.
 
 
-Na pasta aonde o John foi estraído devemos ter o arquivo .rar ou .zip com senha e uma "Word list" que pode ser baixado no site official da aplicação.
+Na pasta aonde o John foi Extraído devemos ter o arquivo .rar ou .zip com senha e uma "Word list" que pode ser baixado no site official da aplicação.
 
 Feito isso, vamos abrir o CMD em modo ADMINISTRADOR e navegar até a pasta aonde foi extraído o John.
 
