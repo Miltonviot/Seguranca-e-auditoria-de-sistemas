@@ -1,2 +1,37 @@
-John the Ripper password cracker 
-================================
+# John the Ripper password cracker
+
+
+### O que é?
+ 
+John the Ripper é uma ferramenta de auditoria e recuperação de senha de código aberto disponível para muitos sistemas operacionais.
+
+Há uma coleção de listas de palavras para usar com John the Ripper. Incluindo listas de senhas comuns e palavras para mais de 20 idiomas.
+
+
+### Como Utilizar
+
+Após efetuar o Download basta extrair os arquivos do John no diretório C: do Windows.
+
+
+Na pasta aonde o John foi estraído devemos ter o arquivo .rar ou .zip com senha e uma "Word list" que pode ser baixado no site official da aplicação.
+
+Feito isso, vamos abrir o CMD em modo ADMINISTRADOR e navegar até a pasta aonde foi extraído o John.
+
+Agora podemos efetuar o primeiro comando *zip2john.exe  nome_arquivo.zip> word_list.txt*  caso o arquivo esteja em .rar, basta trocar zip2john.exe por rar2john.exe.
+
+E por fim digitar o comando **john.exe nome_arquivo.zip word_list.txt**.
+
+Após alguns instantes a senha será exibida no terminal
+
+
+
+## Links
+
+Você pode efetuar o Download do John the Ripper para Windows clicando nesse link.
+
+[John the Ripper](https://www.openwall.com/john/k/john-1.9.0-jumbo-1-win64.zip)
+
+Vídeo de como Quebrar Senhas de arqivos .zip e .rar que foi utilizado como Fonte para escrever esse Tutorial sobre o Software John the Ripper.
+
+[ Créditos do Vídeo ](https://www.youtube.com/watch?v=tkTgqW71r1U&ab_channel=Logics)
+
